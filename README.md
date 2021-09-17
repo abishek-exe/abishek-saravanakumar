@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abishek-saravanakumar
-- 👀 I’m interested in learning new things about Computer Science and exploring
+- 👀 I’m interested in Technology, learning and exploring new things about software
 - 🌱 I’m currently learning Java, DSA and Artificial Intelligence
 - 📫 How to reach me abishek@gatech.edu
 
