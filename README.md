@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abishek-exe
-- 👀 I’m interested in Technology and Stonks
-- 🌱 I’m currently learning Java, DS&A and a bit of Web Development
+- 👀 I’m interested in Programming, Cybersecurity, Automation and Stonks
+- 🌱 I’m currently learning Web Development and Java.
 - 📫 How to reach me: abishek@gatech.edu
 
 <!---
